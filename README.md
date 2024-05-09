@@ -1,6 +1,8 @@
 # Cave_LFRG_DrawLines
  by processing and python,for four wall(left,front,right,ground)
  ![](./other/viewImage.png)
+ result image :
+ ![](./result.png)
 # step
 1.	run drawLines\drawLines.pde with [processing](https://processing.org/download)
 	-	you need set desktop solution ,it's name is "_width" and "_height";
