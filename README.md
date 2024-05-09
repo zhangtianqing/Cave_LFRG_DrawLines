@@ -6,7 +6,7 @@
  result image :
  ![](./result.png)
  view in cave:
- ![](./view in cave.jpg)
+ ![](./other/view in cave.jpg)
  
 # step
 1.	run drawLines\drawLines.pde with [processing](https://processing.org/download)
