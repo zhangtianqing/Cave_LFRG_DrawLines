@@ -10,6 +10,7 @@
 	-	you need set real line distance on code ,it's name is "lineDis",it unit is meter;
 	-	you need set real space on code , realSize.x= front wall width, realSize.y= front wall height, realSize.z= left wall width,it unit is meter;
 	-	run it
+	-	press L R F G to gen image for wall 
 	-	on this step you will get image : left.png front.png right.png ground.png 
 2.	run MergeImage.py with python
 	-	on this step ,you need use pip install pillow
