@@ -1,8 +1,13 @@
 # Cave_LFRG_DrawLines
- by processing and python,for four wall(left,front,right,ground)
+ 生成一张可以用尺子量的画面图
+ Generate a picture that can be measured with a ruler,by processing and python,for four wall(left,front,right,ground)
+
  ![](./other/viewImage.png)
  result image :
  ![](./result.png)
+ view in cave:
+ ![](./view in cave.jpg)
+ 
 # step
 1.	run drawLines\drawLines.pde with [processing](https://processing.org/download)
 	-	you need set desktop solution ,it's name is "_width" and "_height";
